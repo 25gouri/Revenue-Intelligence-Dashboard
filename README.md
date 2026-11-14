@@ -1,6 +1,24 @@
 # Revenue-Intelligence-Dashboard
 End-to-End Data Analytics &amp; Machine Learning Project using Python, XGBoost and Power BI to predict customer churn, estimate revenue at risk and generate executive business insights.
 
+
+## 📑 Table of Contents
+
+- [Dataset](#dataset)
+- [Dashboard Preview](#dashboard-preview)
+- [Project Architecture](#project-architecture)
+- [Project Workflow](#project-workflow)
+- [Tools & Technologies](#tools--technologies)
+- [Machine Learning Model Performance](#machine-learning-model-performance)
+- [Business Insights & Key Findings](#business-insights--key-findings)
+- [Business Recommendations](#business-recommendations)
+- [Watch the Interactive Dashboard Demo](#-watch-the-interactive-dashboard-demo)
+- [Dataset](#dataset)
+- [Project Conclusion](#project-conclusion)
+- [Future Scope](#future-scope)
+
+
+
 ## Dataset
 
 This project uses the **Online Retail II** dataset from the UCI Machine Learning Repository.
