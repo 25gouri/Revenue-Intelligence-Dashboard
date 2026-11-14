@@ -151,3 +151,31 @@ The analysis of 5,881 customers revealed important patterns in customer purchasi
 | Low | Maintain engagement through loyalty campaigns |
 
 The dashboard helps business teams prioritize customer retention efforts, identify potential revenue exposure and make data-driven decisions.
+
+
+## Project Conclusion
+
+This project demonstrates an end-to-end approach to customer analytics, churn prediction and revenue risk assessment.
+
+By combining Python-based data analysis, customer segmentation, XGBoost machine learning and Power BI visualization, the project transforms raw transaction data into actionable business insights.
+
+The solution helps businesses:
+- Understand customer purchasing behaviour.
+- Identify customers who are likely to churn.
+- Estimate potential revenue exposure.
+- Prioritize customer retention activities.
+- Support data-driven business decisions through interactive dashboards.
+
+## Future Scope
+
+Potential enhancements to this project include:
+
+- Integrating real-time customer transaction data.
+- Automating periodic churn prediction.
+- Developing customer-specific retention campaigns.
+- Monitoring model performance and prediction drift.
+- Integrating the dashboard with automated reporting systems.
+
+## Author
+
+Developed as an end-to-end Data Analytics and Machine Learning portfolio project.
