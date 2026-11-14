@@ -179,3 +179,7 @@ Potential enhancements to this project include:
 ## Author
 
 Developed as an end-to-end Data Analytics and Machine Learning portfolio project.
+
+## Watch the interactive video of the dashboard 
+
+![Revenue_Intelligence_Dashboard_Demo](Video/Revenue_Intelligence_Dashboard_Demo.mp4)
