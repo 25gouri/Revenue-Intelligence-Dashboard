@@ -115,3 +115,39 @@ An XGBoost classification model was developed to predict customer churn.
 - Generated customer-level churn probabilities.
 - Combined churn predictions with customer monetary value to estimate revenue at risk.
 - Classified customers into executive priority levels to support retention decisions.
+
+
+## Business Insights & Key Findings
+
+The analysis of 5,881 customers revealed important patterns in customer purchasing behaviour, retention and churn risk.
+
+### 1. Customer Churn
+- Identified 2,991 churned customers out of 5,881 customers.
+- Observed an overall churn rate of approximately 50.86%, using a 90-day inactivity threshold.
+- Identified customer inactivity and purchasing behaviour as important indicators for churn prediction.
+
+### 2. Customer Segmentation
+- Used RFM analysis to understand customer purchasing patterns.
+- Identified different customer segments, including Champions, Loyal Customers and Lost Customers.
+- Distinguished high-value, frequent customers from customers with declining engagement.
+
+### 3. Churn Prediction
+- Generated individual churn probabilities using the XGBoost model.
+- Used customer-level predictions to identify customers requiring retention attention.
+- Evaluated model performance using multiple classification metrics.
+
+### 4. Revenue at Risk
+- Combined customer monetary value with predicted churn probability to estimate revenue at risk.
+- Categorized customers into Critical, High, Watch and Low priority levels.
+- Created a customer-level view to support targeted retention strategies.
+
+## Business Recommendations
+
+| Customer Priority | Recommended Action |
+|---|---|
+| Critical | Initiate immediate personalized retention outreach |
+| High | Offer targeted incentives and exclusive benefits |
+| Watch | Monitor purchasing activity and improve engagement |
+| Low | Maintain engagement through loyalty campaigns |
+
+The dashboard helps business teams prioritize customer retention efforts, identify potential revenue exposure and make data-driven decisions.
