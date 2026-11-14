@@ -79,3 +79,39 @@ flowchart TD
 - Connected the processed datasets to Power BI.
 - Created DAX measures and interactive visualizations.
 - Developed four dashboard pages for executive reporting and decision-making.
+
+
+## Tools & Technologies
+
+| Category | Technologies |
+|---|---|
+| Programming Language | Python |
+| Data Analysis | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn, Power BI |
+| Machine Learning | XGBoost, Scikit-learn |
+| Analytics Techniques | EDA, RFM Analysis, Cohort Analysis |
+| Business Intelligence | Power BI, DAX |
+| Development Environment | Jupyter Notebook |
+| Version Control | GitHub |
+
+## Machine Learning Model Performance
+
+An XGBoost classification model was developed to predict customer churn.
+
+### Evaluation Metrics
+
+| Metric | Result |
+|---|---:|
+| Accuracy | 73.49% |
+| Precision | 71.45% |
+| Recall | 79.80% |
+| F1-Score | 75.39% |
+| ROC-AUC | 79.38% |
+
+### Key Observations
+
+- Achieved 79.38% ROC-AUC on the test dataset.
+- Identified approximately 79.80% of actual churn customers (Recall).
+- Generated customer-level churn probabilities.
+- Combined churn predictions with customer monetary value to estimate revenue at risk.
+- Classified customers into executive priority levels to support retention decisions.
