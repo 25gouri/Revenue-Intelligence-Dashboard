@@ -28,3 +28,54 @@ The original dataset is not included in this repository because of its file size
 
 ### 4. Executive Action Center
 ![Executive Action Center](Images/04_Executive_Action_Center.png)
+
+
+## Project Architecture
+
+The project follows an end-to-end analytics workflow, starting with raw transaction data and ending with actionable business insights.
+
+```mermaid
+flowchart TD
+    A["Online Retail II Dataset"] --> B["Data Loading & Cleaning"]
+    B --> C["Exploratory Data Analysis"]
+    C --> D["RFM Analysis & Customer Segmentation"]
+    D --> E["Feature Engineering"]
+    E --> F["XGBoost Churn Prediction"]
+    F --> G["Model Evaluation"]
+    G --> H["Churn Probability"]
+    H --> I["Revenue at Risk Calculation"]
+    I --> J["Executive Priority Classification"]
+    J --> K["Processed CSV Outputs"]
+    K --> L["Power BI Dashboard"]
+    L --> M["Executive Insights & Recommended Actions"]
+```
+
+## Project Workflow
+
+### 1. Data Preparation
+- Loaded and cleaned the Online Retail II transaction dataset.
+- Handled missing values and prepared customer-level data.
+- Created analytical datasets for further processing.
+
+### 2. Customer Analytics
+- Performed Exploratory Data Analysis (EDA).
+- Conducted RFM analysis.
+- Identified customer segments and purchasing patterns.
+- Performed cohort analysis.
+
+### 3. Machine Learning
+- Engineered customer-level features.
+- Prepared training and testing datasets.
+- Developed an XGBoost classification model.
+- Evaluated performance using Accuracy, Precision, Recall, F1-score and ROC-AUC.
+
+### 4. Revenue at Risk
+- Generated customer-level churn probabilities.
+- Estimated revenue at risk.
+- Classified customers into executive priority levels.
+- Prepared actionable customer-level outputs.
+
+### 5. Power BI Dashboard
+- Connected the processed datasets to Power BI.
+- Created DAX measures and interactive visualizations.
+- Developed four dashboard pages for executive reporting and decision-making.
