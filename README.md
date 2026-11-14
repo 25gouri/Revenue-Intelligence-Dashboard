@@ -180,6 +180,9 @@ Potential enhancements to this project include:
 
 Developed as an end-to-end Data Analytics and Machine Learning portfolio project.
 
-## Watch the interactive video of the dashboard 
 
-![Revenue_Intelligence_Dashboard_Demo](Video/Revenue_Intelligence_Dashboard_Demo.mp4)
+## 🎬 Watch the Interactive Dashboard Demo
+
+Explore how the dashboard transforms customer transaction data into churn insights, revenue-at-risk analysis and actionable business priorities.
+
+▶️ [Watch the Revenue Intelligence Dashboard Demo](Video/Revenue_Intelligence_Dashboard_Demo.mp4)
