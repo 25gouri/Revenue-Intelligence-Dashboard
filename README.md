@@ -16,7 +16,7 @@ End-to-End Data Analytics &amp; Machine Learning Project using Python, XGBoost a
 - [Dataset](#dataset)
 - [Project Conclusion](#project-conclusion)
 - [Future Scope](#future-scope)
-- [Documentation](#project-documentation)
+- [Project Documentation](#project-documentation)
 
 
 
