@@ -204,3 +204,11 @@ Developed as an end-to-end Data Analytics and Machine Learning portfolio project
 Explore how the dashboard transforms customer transaction data into churn insights, revenue-at-risk analysis and actionable business priorities.
 
 ▶️ [Watch the Revenue Intelligence Dashboard Demo](Video/Revenue_Intelligence_Dashboard_Demo.mp4)
+
+## 📖 Project Documentation
+
+Want to understand how this project was built, from data cleaning and customer segmentation to churn prediction and Revenue-at-Risk analysis?
+
+Explore the complete project documentation:
+
+👉 [Read the Full Project Documentation](Documentation/)
