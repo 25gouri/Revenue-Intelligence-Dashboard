@@ -16,6 +16,7 @@ End-to-End Data Analytics &amp; Machine Learning Project using Python, XGBoost a
 - [Dataset](#dataset)
 - [Project Conclusion](#project-conclusion)
 - [Future Scope](#future-scope)
+- [Documentation](#project-documentation)
 
 
 
@@ -211,4 +212,4 @@ Want to understand how this project was built, from data cleaning and customer s
 
 Explore the complete project documentation:
 
-👉 [Read the Full Project Documentation](Documentation/)
+👉 [Read the Full Project Documentation](Documentation/REVENUE INTELLIGENCE DASHBOARD DOCUMENTATION.pdf)
