@@ -195,9 +195,6 @@ Potential enhancements to this project include:
 - Monitoring model performance and prediction drift.
 - Integrating the dashboard with automated reporting systems.
 
-## Author
-
-Developed as an end-to-end Data Analytics and Machine Learning portfolio project.
 
 
 ## 🎬 Watch the Interactive Dashboard Demo
@@ -207,10 +204,11 @@ Explore how the dashboard transforms customer transaction data into churn insigh
 ▶️ [Watch the Revenue Intelligence Dashboard Demo](Video/Revenue_Intelligence_Dashboard_Demo.mp4)
 
 
+
 ## 📖 Project Documentation
 
 Want to understand how this project was built — from data cleaning and customer segmentation to machine learning-based churn prediction and Revenue-at-Risk analysis?
 
 The complete documentation explains the business problem, analytical approach, model development, evaluation, dashboard design, and key business insights.
 
-👉 **[Read the Complete Project Documentation (PDF)](Documentation/REVENUE%20INTELLIGENCE%20DASHBOARD%20DOCUMENTATION.pdf)**
+👉 [Read the Complete Project Documentation (PDF)](Documentation/REVENUE%20INTELLIGENCE%20DASHBOARD%20DOCUMENTATION.pdf)
