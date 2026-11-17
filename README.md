@@ -206,10 +206,11 @@ Explore how the dashboard transforms customer transaction data into churn insigh
 
 ▶️ [Watch the Revenue Intelligence Dashboard Demo](Video/Revenue_Intelligence_Dashboard_Demo.mp4)
 
+
 ## 📖 Project Documentation
 
-Want to understand how this project was built, from data cleaning and customer segmentation to churn prediction and Revenue-at-Risk analysis?
+Want to understand how this project was built — from data cleaning and customer segmentation to machine learning-based churn prediction and Revenue-at-Risk analysis?
 
-Explore the complete project documentation:
+The complete documentation explains the business problem, analytical approach, model development, evaluation, dashboard design, and key business insights.
 
-👉 [Read the Full Project Documentation](Documentation/REVENUE INTELLIGENCE DASHBOARD DOCUMENTATION.pdf)
+👉 **[Read the Complete Project Documentation (PDF)](Documentation/REVENUE%20INTELLIGENCE%20DASHBOARD%20DOCUMENTATION.pdf)**
