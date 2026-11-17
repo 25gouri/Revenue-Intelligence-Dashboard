@@ -1,6 +1,13 @@
 # Revenue-Intelligence-Dashboard
 End-to-End Data Analytics &amp; Machine Learning Project using Python, XGBoost and Power BI to predict customer churn, estimate revenue at risk and generate executive business insights.
 
+## 📖 Project Documentation
+
+Want to understand how this project was built — from data cleaning and customer segmentation to machine learning-based churn prediction and Revenue-at-Risk analysis?
+
+The complete documentation explains the business problem, analytical approach, model development, evaluation, dashboard design, and key business insights.
+
+👉 [Read the Complete Project Documentation (PDF)](Documentation/REVENUE%20INTELLIGENCE%20DASHBOARD%20DOCUMENTATION.pdf)
 
 ## 📑 Table of Contents
 
@@ -204,11 +211,3 @@ Explore how the dashboard transforms customer transaction data into churn insigh
 ▶️ [Watch the Revenue Intelligence Dashboard Demo](Video/Revenue_Intelligence_Dashboard_Demo.mp4)
 
 
-
-## 📖 Project Documentation
-
-Want to understand how this project was built — from data cleaning and customer segmentation to machine learning-based churn prediction and Revenue-at-Risk analysis?
-
-The complete documentation explains the business problem, analytical approach, model development, evaluation, dashboard design, and key business insights.
-
-👉 [Read the Complete Project Documentation (PDF)](Documentation/REVENUE%20INTELLIGENCE%20DASHBOARD%20DOCUMENTATION.pdf)
