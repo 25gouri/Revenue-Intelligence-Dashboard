@@ -1,7 +1,7 @@
 # Revenue-Intelligence-Dashboard
 End-to-End Data Analytics &amp; Machine Learning Project using Python, XGBoost and Power BI to predict customer churn, estimate revenue at risk and generate executive business insights.
 
-## 📖 Project Documentation
+## Project Documentation
 
 Want to understand how this project was built — from data cleaning and customer segmentation to machine learning-based churn prediction and Revenue-at-Risk analysis?
 
