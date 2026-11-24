@@ -1,14 +1,6 @@
 # Revenue-Intelligence-Dashboard
 End-to-End Data Analytics &amp; Machine Learning Project using Python, XGBoost and Power BI to predict customer churn, estimate revenue at risk and generate executive business insights.
 
-## Project Documentation
-
-Want to understand how this project was built — from data cleaning and customer segmentation to machine learning-based churn prediction and Revenue-at-Risk analysis?
-
-The complete documentation explains the business problem, analytical approach, model development, evaluation, dashboard design, and key business insights.
-
-👉 [Read the Complete Project Documentation (PDF)](Documentation/REVENUE%20INTELLIGENCE%20DASHBOARD%20DOCUMENTATION.pdf)
-
 ## 📑 Table of Contents
 
 - [Dataset](#dataset)
@@ -23,7 +15,6 @@ The complete documentation explains the business problem, analytical approach, m
 - [Future Scope](#future-scope)
 - [Watch the Interactive Dashboard Demo](#-watch-the-interactive-dashboard-demo)
 - [Project Documentation](#project-documentation)
-
 
 
 ## Dataset
@@ -55,6 +46,7 @@ The original dataset is not included in this repository because of its file size
 ![Executive Action Center](Images/04_Executive_Action_Center.png)
 
 
+
 ## Project Architecture
 
 The project follows an end-to-end analytics workflow, starting with raw transaction data and ending with actionable business insights.
@@ -74,6 +66,7 @@ flowchart TD
     K --> L["Power BI Dashboard"]
     L --> M["Executive Insights & Recommended Actions"]
 ```
+
 
 ## Project Workflow
 
@@ -142,6 +135,7 @@ An XGBoost classification model was developed to predict customer churn.
 - Classified customers into executive priority levels to support retention decisions.
 
 
+
 ## Business Insights & Key Findings
 
 The analysis of 5,881 customers revealed important patterns in customer purchasing behaviour, retention and churn risk.
@@ -178,6 +172,7 @@ The analysis of 5,881 customers revealed important patterns in customer purchasi
 The dashboard helps business teams prioritize customer retention efforts, identify potential revenue exposure and make data-driven decisions.
 
 
+
 ## Project Conclusion
 
 This project demonstrates an end-to-end approach to customer analytics, churn prediction and revenue risk assessment.
@@ -190,6 +185,8 @@ The solution helps businesses:
 - Estimate potential revenue exposure.
 - Prioritize customer retention activities.
 - Support data-driven business decisions through interactive dashboards.
+
+
 
 ## Future Scope
 
@@ -210,3 +207,11 @@ Explore how the dashboard transforms customer transaction data into churn insigh
 ▶️ [Watch the Revenue Intelligence Dashboard Demo](Video/Revenue_Intelligence_Dashboard_Demo.mp4)
 
 
+
+## Project Documentation
+
+Want to understand how this project was built — from data cleaning and customer segmentation to machine learning-based churn prediction and Revenue-at-Risk analysis?
+
+The complete documentation explains the business problem, analytical approach, model development, evaluation, dashboard design, and key business insights.
+
+👉 [Read the Complete Project Documentation (PDF)](Documentation/REVENUE%20INTELLIGENCE%20DASHBOARD%20DOCUMENTATION.pdf)
