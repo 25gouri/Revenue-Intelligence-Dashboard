@@ -19,10 +19,9 @@ The complete documentation explains the business problem, analytical approach, m
 - [Machine Learning Model Performance](#machine-learning-model-performance)
 - [Business Insights & Key Findings](#business-insights--key-findings)
 - [Business Recommendations](#business-recommendations)
-- [Watch the Interactive Dashboard Demo](#-watch-the-interactive-dashboard-demo)
-- [Dataset](#dataset)
 - [Project Conclusion](#project-conclusion)
 - [Future Scope](#future-scope)
+- [Watch the Interactive Dashboard Demo](#-watch-the-interactive-dashboard-demo)
 - [Project Documentation](#project-documentation)
 
 
